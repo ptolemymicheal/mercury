@@ -34,7 +34,9 @@ h2{ text-align: center;
 a{outline: none;
   color: #74b4f5;
 }
-p{ font-size= 16px;}
+p{ font-size= 16px;
+    text-align: justify;
+}
 a:hover{ color: black;}
 a:visited{ text-decoration: none;}
 html{scroll-behavior: smooth;}
