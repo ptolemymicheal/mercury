@@ -1,0 +1,45 @@
+<!-- <!DOCTYPE html>
+ <html lang="en">
+  <head>
+   <title>Michaeleise</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <link rel="stylesheet" href="style.css">
+  <body>
+    <P class="intro">
+       <strong>Hi! My name is Michael i am a frontend web developer.</strong>
+       i started my web development journey a couple of weeks ago, and i am presently taking the responsive web developement course 
+       on <a href="http://www.freecodecamp.org" >freecodecamp</a>
+       along with digital marketing and SEO courses<hr>
+   </P>
+   <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_vfuqgv0l.json" loading="lazy" background="transparent" speed="1" style="width: 100%; height: auto;" hover loop autoplay  ></lottie-player>
+   <div class="my stacks">
+      <!-- decided to remove the memes  <img src=""> -->
+    <!-- <h2>Stack and certifications</h2>
+     <ul><li>CSS 3</li>
+         <li>HTML 5</li>
+         <li>Basic SEO</li>
+         <li>Content writing</li>
+    </ul> 
+     <p>i have a grasp of the basic principles of web developement including the use of SaaS web building tools, a good understanding of HTML, the basics of CSS and search engine opitimisation practices.
+         i am midly obssesed with consumer tech and i like read, watch videos, and write about them in my spare time.
+    </p>
+   </div>
+   <div class="portfolio">
+       <h2>Projects</h2>
+      decided to remove the memes <img src="animation.gif.mp4" alt="it's not much but it's honest work meme">-->
+    <!-- <p>These are some of the things i have worked on</p>
+    <ul>
+      <li><a href="#">EiseMichael</a> using HTML and basic CSS</li>
+      <li><a href="http://www.Eric-okafor.carrd.co" target=_blank>Social media landing page</a> using a web builder </li>
+    </ul>
+    
+   </div>
+   <a href="http://www.michaeleise.carrd.co"><button class="button">Contact me</button></a>
+    
+  </body>
+ </html> -->
