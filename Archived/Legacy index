@@ -19,7 +19,7 @@
 <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_vfuqgv0l.json" loading="lazy" background="transparent" speed="1" style="width: 100%; height: auto;" hover loop autoplay  ></lottie-player>
    <div class="my stacks">
       <!-- decided to remove the memes  <img src=""> -->
-    <!-- <h2>Stack and certifications</h2>
+<!-- <h2>Stack and certifications</h2>
      <ul><li>CSS 3</li>
          <li>HTML 5</li>
          <li>Basic SEO</li>
@@ -32,7 +32,7 @@
    <div class="portfolio">
        <h2>Projects</h2>
       decided to remove the memes <img src="animation.gif.mp4" alt="it's not much but it's honest work meme">-->
-    <!-- <p>These are some of the things i have worked on</p>
+<!-- <p>These are some of the things i have worked on</p>
     <ul>
       <li><a href="#">EiseMichael</a> using HTML and basic CSS</li>
       <li><a href="http://www.Eric-okafor.carrd.co" target=_blank>Social media landing page</a> using a web builder </li>
