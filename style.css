@@ -167,9 +167,9 @@ a {
     flex-direction: column ;
     
   }
-  .michael{
+  /* .michael{
    
-   }
+   } */
   
 }
 
@@ -402,4 +402,6 @@ img {
  .blog{
   height: 100vh;
   text-align: center;
+  background-image: url("/assets/undraw_building_websites_i78t.svg"); 
+  background-repeat: no-repeat;
  }
