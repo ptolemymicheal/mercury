@@ -188,7 +188,11 @@ text-align: center;
   font-weight: 600;
   color: #60A5FA;
 }
+/* .bg-design{
+ z-index: -1;
 
+ position: absolute;
+} */
  
 
 footer {
