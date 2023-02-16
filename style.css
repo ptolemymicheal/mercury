@@ -188,19 +188,25 @@ text-align: center;
   font-weight: 600;
   color: #60A5FA;
 }
-/* .animation{
-  /* border: 1px solid blue; */
+/* .bg-design{
+ z-index: -1;
+
+ position: absolute;
+} */
  
 
 footer {
   position: relative;
   width: 100%;
   bottom: 0px;
-  background: #111;
+  background: #93b3df;
   height:50px;
-  color: #9CA3AF;
+  color: black;
   margin-top: 10px;
  text-align: center;
+}
+footer>p{
+  padding: 5px;
 }
 
 /* css for about me section */
@@ -379,7 +385,7 @@ img {
     /* style for scrollbar */
 /* width */
  ::-webkit-scrollbar {
-    width: 5px;
+    width: 7px;
   }
   
   /* Track */
@@ -389,12 +395,12 @@ img {
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: whitesmoke; 
+    background: whitesmoke
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #d9e5f5; 
+    background: rgb(73, 67, 67);
   } 
      /* style for scrollbar */
   
